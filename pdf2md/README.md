@@ -1,10 +1,6 @@
 ### `pdf2md.py` : PDF to Markdown Converter using Mistral OCR API
 
-This function processes a folder of PDF files, performs Optical Character Recognition (OCR) on each document using the Mistral AI OCR API, and saves the extracted text as markdown files in an output folder.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/195px-PDF_file_icon.svg.png" width="50">
-<img src="https://images.seeklogo.com/logo-png/51/1/mistral-ai-icon-logo-png_seeklogo-515008.png" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1280px_Markdown_with_White_Background.png/320px-1280px_Markdown_with_White_Background.png" width="90">
+This function processes a folder of PDF files <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/195px-PDF_file_icon.svg.png" width="15">, performs Optical Character Recognition (OCR) on each document using the Mistral AI OCR API <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/1024px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" width="30">, and saves the extracted text as markdown files <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1280px_Markdown_with_White_Background.png/320px-1280px_Markdown_with_White_Background.png" width="40"> in an output folder.
 
 #### Arguments
 
