@@ -24,7 +24,7 @@ The function:
 #### Example Usage
 
 ```bash
-python pdf_to_markdown.py --input /path/to/pdf/folder --output /path/to/markdown/folder --api-key your_mistral_api_key
+python pdf2md.py --input /path/to/pdf/folder --output /path/to/markdown/folder --api-key your_mistral_api_key
 ```
 
 #### Output Format
