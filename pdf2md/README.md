@@ -2,6 +2,10 @@
 
 This function processes a folder of PDF files, performs Optical Character Recognition (OCR) on each document using the Mistral AI OCR API, and saves the extracted text as markdown files in an output folder.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/195px-PDF_file_icon.svg.png" width="50">
+<img src="https://images.seeklogo.com/logo-png/51/1/mistral-ai-icon-logo-png_seeklogo-515008.png" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1280px_Markdown_with_White_Background.png/320px-1280px_Markdown_with_White_Background.png" width="90">
+
 #### Arguments
 
 - `input_folder` (string): Directory path containing PDF files to be processed
