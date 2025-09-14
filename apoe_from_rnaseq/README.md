@@ -228,20 +228,11 @@ Use the genotype calls at both positions to determine APOE status:
    - Verify chromosome naming conventions match between all files
    - **Check quality control positions**: The upstream control positions should show NO variants called - if variants appear at these positions, you have a reference genome mismatch
 
-### Performance Notes
-- Runtime: ~1-5 minutes for typical RNA-seq BAM files
-- Memory usage: Minimal (<1GB)
-- Disk space: Output files are typically <1MB
-
-## Version History
-- **Tested on**: macOS systems only
-- Compatible with samtools/bcftools 1.10+
-- Shell: bash 3.2+
 
 ⚠️ **Platform Note**: This script has been tested exclusively on macOS. While it should work on Linux systems, functionality on other platforms has not been verified.
 
 ## Citation
-If using this script in research, please cite appropriate references for:
-- samtools/bcftools software
-- APOE genotyping methodology
-- Your specific RNA-seq processing pipeline
+If using this script, please :
+
+Arbones-Mainar, Jose M.(2025). APOE Genotyping from RNA-seq Data. [Computer software]. GitHub.
+https://github.com/arbones/functions/tree/main/apoe_from_rnaseq
